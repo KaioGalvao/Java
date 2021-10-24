@@ -27,10 +27,6 @@ public class Main {
         return vetor;
     }
 
-        // Pesquisar e implementar na classe Ordenacao o algoritmo Insertion Sort
-
-
-        // Isolar os métodos copiar e imprimirVetor em uma classe VetorUtil
     public static int[] copiar(int[] vetor) {
         int[] novoVetor = new int[vetor.length];
         for(int i = 0; i < novoVetor.length; i++) {
