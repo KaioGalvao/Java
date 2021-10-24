@@ -8,7 +8,6 @@ public class Main {
     }
 
 
-    // Isolar o método bubbleSort em uma classe Ordenacao 
     public static int[] bubbleSort(int[] vetor) {
         vetor = copiar(vetor);
 
